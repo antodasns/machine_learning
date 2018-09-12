@@ -1,0 +1,6 @@
+data
+*.swp
+./*.jpg
+./*.jpeg
+./*.png
+./*.gif
